@@ -33,6 +33,62 @@ I'm a Full Stack Engineer & Solution Architect with 20+ years of experience in m
 - 🚗 Ride-Hailing System (Karhoo)
 - 🤖 AI-Powered Solutions
 
+
+# Recent Projects 🚀
+
+## AI & Computer Vision Research
+### [IMF (Implicit Motion Function)](https://github.com/johndpope/IMF) 
+A recreation of Microsoft's groundbreaking motion synthesis technology
+- Implemented neural motion fields for human motion synthesis
+- Built using PyTorch and CUDA optimizations
+- Focus on performance optimization and memory efficiency
+
+### [MegaPortrait-hack]([link-to-repo](https://github.com/johndpope/MegaPortrait-hack))
+Reverse engineering study of "MegaPortraits: One-shot Megapixel Neural Head Avatars"
+- High-resolution neural head avatar generation
+- Implemented novel architecture for one-shot learning
+- Utilized Claude AI for code analysis and optimization
+- Tech stack: Python, PyTorch, CUDA
+
+### [VASA-1-hack](https://github.com/johndpope/vasa-1-hack)
+Implementation study of VASA (Visual Affective Style Transfer) architecture
+- Audio-driven facial animation synthesis
+- Emotion-preserving style transfer
+- Large-scale model training infrastructure
+- Tech stack: Python, PyTorch, Audio processing libraries
+
+## MLOps & Infrastructure
+
+### [vertex-jumpstart](https://github.com/johndpope/vertex-jumpstart)
+Enterprise-grade MLOps toolkit for A100 GPU clusters
+- **Infrastructure as Code**
+  - Terraform modules for GCP Vertex AI
+  - Automated cluster provisioning
+  - GPU quota management
+- **CI/CD Pipeline**
+  - Docker containerization
+  - Automated deployment workflows
+  - Resource optimization
+- **Monitoring & Scaling**
+  - Custom metrics collection
+  - Auto-scaling policies
+  - Cost optimization
+
+### [CryptoCurrencyTrader]()
+ML-powered cryptocurrency trading strategy generator
+- Real-time market data processing
+- Multiple ML models (Random Forest, LSTM, Transformer)
+- Backtesting framework
+- Risk management system
+- Tech stack: Python, TensorFlow, scikit-learn, pandas
+
+## Technical Highlights
+- Advanced computer vision implementations
+- Large-scale distributed systems
+- MLOps and infrastructure automation
+- Performance optimization for GPU clusters
+- Research-to-production pipeline development
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johndpope&show_icons=true&theme=dark)
 

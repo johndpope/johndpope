@@ -34,7 +34,7 @@ I'm a Full Stack Engineer & Solution Architect with 20+ years of experience in m
 - 🤖 AI-Powered Solutions
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johndpope&show_icons=true&theme=dark)
 
 ## 🌍 Find me around the web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)

@@ -43,7 +43,7 @@ A recreation of Microsoft's groundbreaking motion synthesis technology
 - Built using PyTorch and CUDA optimizations
 - Focus on performance optimization and memory efficiency
 
-### [MegaPortrait-hack]([link-to-repo](https://github.com/johndpope/MegaPortrait-hack))
+### [MegaPortrait-hack](https://github.com/johndpope/MegaPortrait-hack)
 Reverse engineering study of "MegaPortraits: One-shot Megapixel Neural Head Avatars"
 - High-resolution neural head avatar generation
 - Implemented novel architecture for one-shot learning

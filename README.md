@@ -28,7 +28,7 @@ I'm a Full Stack Engineer & Solution Architect with 20+ years of experience in m
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ## 🌟 Featured Projects
-- 🎥 Video Streaming Platform (WWE)
+- 🎥 Video Streaming Platform (WWE) World Wrestling Entertainment - Conneticut USA
 - 📱 Social Media Platform with AR (8secondz)
 - 🚗 Ride-Hailing System (Karhoo)
 - 🤖 AI-Powered Solutions

@@ -2,6 +2,8 @@
 
 I'm a Full Stack Engineer & Solution Architect with 20+ years of experience in mobile development, AI/ML, and cloud solutions.
 
+cv - https://docs.google.com/file/d/1gbhxMlrlieD5wGcnhfT-36_WBpGWaSdW/edit?usp=docslist_api&filetype=msword
+
 ## 🔭 Current Focus
 - Full Stack Development
 - AI/ML Solutions

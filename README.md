@@ -19,7 +19,7 @@ cv - https://docs.google.com/file/d/1gbhxMlrlieD5wGcnhfT-36_WBpGWaSdW/edit?usp=d
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 
 ### AI/ML
-- 🤖 PyTorch | TensorFlow
+- 🤖 PyTorch 
 - 🧠 NLP & Transformers
 - 👁️ Computer Vision
 - ⚡ Generative AI
@@ -32,7 +32,7 @@ cv - https://docs.google.com/file/d/1gbhxMlrlieD5wGcnhfT-36_WBpGWaSdW/edit?usp=d
 ## 🌟 Featured Projects
 - 🎥 Video Streaming Platform (WWE) World Wrestling Entertainment - Conneticut USA
 - 📱 Social Media Platform with AR (8secondz)
-- 🚗 Ride-Hailing System (Karhoo)
+- 🚗 Ride-Hailing System - New York City -SOHO (Karhoo)
 - 🤖 AI-Powered Solutions
 
 
@@ -44,6 +44,19 @@ A recreation of Microsoft's groundbreaking motion synthesis technology
 - Implemented neural motion fields for human motion synthesis
 - Built using PyTorch and CUDA optimizations
 - Focus on performance optimization and memory efficiency
+- (update) recently acknowledged here https://github.com/cbsjtu01/IMTalker (see my PR that upgrades code to 58fps)
+
+
+
+### [VASA-1-hack](https://github.com/johndpope/vasa-1-hack)
+Implementation study of VASA (Visual Affective Style Transfer) architecture
+- Audio-driven facial animation synthesis
+- Emotion-preserving style transfer
+- Large-scale model training infrastructure
+- Tech stack: Python, PyTorch, Audio processing libraries
+https://wandb.ai/snoozie/vasa-overfitting/runs/8mq2bmob?nw=nwusersnoozie
+
+
 
 ### [MegaPortrait-hack](https://github.com/johndpope/MegaPortrait-hack)
 Reverse engineering study of "MegaPortraits: One-shot Megapixel Neural Head Avatars"
@@ -52,14 +65,8 @@ Reverse engineering study of "MegaPortraits: One-shot Megapixel Neural Head Avat
 - Utilized Claude AI for code analysis and optimization
 - Tech stack: Python, PyTorch, CUDA
 
-### [VASA-1-hack](https://github.com/johndpope/vasa-1-hack)
-Implementation study of VASA (Visual Affective Style Transfer) architecture
-- Audio-driven facial animation synthesis
-- Emotion-preserving style transfer
-- Large-scale model training infrastructure
-- Tech stack: Python, PyTorch, Audio processing libraries
 
-## MLOps & Infrastructure
+## Google Ai 0 AWS Infrastructure
 
 ### [vertex-jumpstart](https://github.com/johndpope/vertex-jumpstart)
 Enterprise-grade MLOps toolkit for A100 GPU clusters

@@ -30,6 +30,7 @@ cv - https://docs.google.com/file/d/1gbhxMlrlieD5wGcnhfT-36_WBpGWaSdW/edit?usp=d
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ## 🌟 Featured Projects
+* **[RotorQuant](https://www.scrya.com/rotorquant/)** – Advanced Quantization Framework for LLM Optimization.
 - 🎥 Video Streaming Platform (WWE) World Wrestling Entertainment - Conneticut USA
 - 📱 Social Media Platform with AR (8secondz)
 - 🚗 Ride-Hailing System - New York City -SOHO (Karhoo)
@@ -37,6 +38,15 @@ cv - https://docs.google.com/file/d/1gbhxMlrlieD5wGcnhfT-36_WBpGWaSdW/edit?usp=d
 
 
 # Recent Projects 🚀
+
+### [RotorQuant](https://www.scrya.com/rotorquant/)
+A cutting-edge quantization framework designed to squeeze maximum performance out of LLMs with minimal perplexity loss.
+* **Weight Transformation:** Implements rotational transformations to balance outlier features, making models more "quantization-friendly."
+* **Hardware Efficiency:** Optimized for reduced memory footprints, allowing large-scale models to run on consumer-grade hardware.
+* **Innovation:** Focuses on the intersection of linear algebra and neural compression to mitigate the accuracy drop typical in 4-bit and 8-bit quantization.
+* **Tech stack:** Python, PyTorch, CUDA, Triton.
+
+
 
 ## AI & Computer Vision Research
 ### [IMF (Implicit Motion Function)](https://github.com/johndpope/IMF) 
